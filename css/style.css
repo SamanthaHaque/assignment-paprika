@@ -166,7 +166,7 @@ background-color: #fff;
     transition: font-size 0.4s ease;
 }
 .three-items:hover{
-    font-size: 13px
+    font-size: 13px;
 }
 .three-items li{
     padding: 10px;
